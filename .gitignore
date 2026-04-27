@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keil / MDK generated output
+Listings/
+Objects/
+*.uvguix.*
+*.scvd
+*.uvoptx.bak
+*.uvprojx.bak
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+
+# STM32CubeIDE / VS Code local files
+.settings/
+.metadata/
+.vscode/*.log
+
+# Temporary files
+*.tmp
+*.bak
+~$*
